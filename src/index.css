@@ -1,0 +1,28 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color:var(--Very_Light_Gray) ;
+  font-family:'Rubik' ;
+}
+
+
+:root {
+  --Moderate_Blue: hsl(238, 40%, 52%);
+  --Soft_Red: hsl(358, 79%, 66%);
+  --Light_Grayish_Blue: hsl(239, 57%, 85%);
+  --Pale_Red: hsl(357, 100%, 86%);
+
+  --Dark_Blue: hsl(212, 24%, 26%);
+  --Grayish_Blue: hsl(211, 10%, 45%);
+--Light_Gray: hsl(223, 19%, 93%);
+--Very_Light_Gray: hsl(228, 33%, 97%);
+ --White: hsl(0, 0%, 100%);
+
+}
+
+
